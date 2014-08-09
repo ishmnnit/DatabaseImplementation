@@ -1,0 +1,136 @@
+Enter command and then press cntrl+D
+Before init
+After init
+In Read RELATIONMAP: relsize is 8
+ after 1st read 
+ write 9
+ write 0
+ write 61
+In Read RELATIONMAP: relsize is 9
+ 
+ after 2nd read 
+ CHKKKK lineitem l_returnflag
+ CHKKKK lineitem l_shipmode
+ CHKKKK lineitem l_returnflag
+ CHKKKK lineitem l_shipmode
+ numerator  6001215 4
+  denom  0.333333
+  denom  0.428571
+  denom  0.333333
+  denom  0.333333
+RESULT 95257.4
+In Read RELATIONMAP: relsize is 9
+ 
+ after 3rd read 
+ CHKKKK lineitem l_returnflag
+ CHKKKK lineitem l_shipmode
+ numerator  6001215 4
+  denom  0.333333
+  denom  0.428571
+  denom  0.333333
+  denom  0.333333
+RESULT 95257.4
+ write 9
+ write 0
+ write 61
+Create Join Tree returned
+Opening file lineitem.bin
+ path lineitem.bin
+ path lineitem.bin
+ path lineitem.bin
+l.l_suppkey: [8687], l.l_partkey: [198686], l.l_orderkey: [5028]
+l.l_suppkey: [9943], l.l_partkey: [49942], l.l_orderkey: [5031]
+l.l_suppkey: [613], l.l_partkey: [153067], l.l_orderkey: [5031]
+l.l_suppkey: [2954], l.l_partkey: [180435], l.l_orderkey: [5031]
+l.l_suppkey: [7057], l.l_partkey: [69538], l.l_orderkey: [5059]
+l.l_suppkey: [7907], l.l_partkey: [122882], l.l_orderkey: [5059]
+l.l_suppkey: [2530], l.l_partkey: [197491], l.l_orderkey: [5061]
+l.l_suppkey: [3295], l.l_partkey: [100784], l.l_orderkey: [5062]
+l.l_suppkey: [4682], l.l_partkey: [74681], l.l_orderkey: [5062]
+l.l_suppkey: [2665], l.l_partkey: [160148], l.l_orderkey: [5062]
+l.l_suppkey: [1549], l.l_partkey: [161548], l.l_orderkey: [5089]
+l.l_suppkey: [3296], l.l_partkey: [150780], l.l_orderkey: [5093]
+l.l_suppkey: [5034], l.l_partkey: [142519], l.l_orderkey: [5094]
+l.l_suppkey: [5135], l.l_partkey: [107604], l.l_orderkey: [5094]
+l.l_suppkey: [8511], l.l_partkey: [78510], l.l_orderkey: [5094]
+l.l_suppkey: [1614], l.l_partkey: [96595], l.l_orderkey: [5121]
+l.l_suppkey: [8203], l.l_partkey: [88202], l.l_orderkey: [5121]
+l.l_suppkey: [8573], l.l_partkey: [23568], l.l_orderkey: [5126]
+l.l_suppkey: [5853], l.l_partkey: [100832], l.l_orderkey: [5126]
+l.l_suppkey: [6139], l.l_partkey: [16138], l.l_orderkey: [5189]
+l.l_suppkey: [4898], l.l_partkey: [129873], l.l_orderkey: [5223]
+l.l_suppkey: [258], l.l_partkey: [157742], l.l_orderkey: [5249]
+l.l_suppkey: [695], l.l_partkey: [70694], l.l_orderkey: [5285]
+l.l_suppkey: [8619], l.l_partkey: [178618], l.l_orderkey: [5315]
+l.l_suppkey: [9784], l.l_partkey: [94765], l.l_orderkey: [5317]
+l.l_suppkey: [9522], l.l_partkey: [179521], l.l_orderkey: [5318]
+l.l_suppkey: [6257], l.l_partkey: [141228], l.l_orderkey: [5318]
+l.l_suppkey: [1046], l.l_partkey: [121045], l.l_orderkey: [5350]
+l.l_suppkey: [7261], l.l_partkey: [9760], l.l_orderkey: [5378]
+l.l_suppkey: [4757], l.l_partkey: [167208], l.l_orderkey: [5381]
+l.l_suppkey: [7983], l.l_partkey: [152952], l.l_orderkey: [5382]
+l.l_suppkey: [6962], l.l_partkey: [101941], l.l_orderkey: [5408]
+l.l_suppkey: [6409], l.l_partkey: [63902], l.l_orderkey: [5409]
+l.l_suppkey: [873], l.l_partkey: [8372], l.l_orderkey: [5414]
+l.l_suppkey: [5100], l.l_partkey: [15099], l.l_orderkey: [5415]
+l.l_suppkey: [7563], l.l_partkey: [160014], l.l_orderkey: [5415]
+l.l_suppkey: [6227], l.l_partkey: [143712], l.l_orderkey: [5415]
+l.l_suppkey: [8485], l.l_partkey: [163452], l.l_orderkey: [5441]
+l.l_suppkey: [7499], l.l_partkey: [12496], l.l_orderkey: [5445]
+l.l_suppkey: [4469], l.l_partkey: [166920], l.l_orderkey: [5472]
+l.l_suppkey: [383], l.l_partkey: [47878], l.l_orderkey: [5473]
+l.l_suppkey: [1977], l.l_partkey: [14473], l.l_orderkey: [5473]
+l.l_suppkey: [2840], l.l_partkey: [47831], l.l_orderkey: [5474]
+l.l_suppkey: [6057], l.l_partkey: [176056], l.l_orderkey: [5504]
+l.l_suppkey: [9310], l.l_partkey: [139309], l.l_orderkey: [5506]
+l.l_suppkey: [9025], l.l_partkey: [159024], l.l_orderkey: [5506]
+l.l_suppkey: [6088], l.l_partkey: [98560], l.l_orderkey: [5509]
+l.l_suppkey: [2456], l.l_partkey: [187419], l.l_orderkey: [5511]
+l.l_suppkey: [239], l.l_partkey: [142696], l.l_orderkey: [5511]
+l.l_suppkey: [84], l.l_partkey: [120083], l.l_orderkey: [5538]
+l.l_suppkey: [1023], l.l_partkey: [18521], l.l_orderkey: [5538]
+l.l_suppkey: [5189], l.l_partkey: [77667], l.l_orderkey: [5538]
+l.l_suppkey: [5132], l.l_partkey: [142617], l.l_orderkey: [5543]
+l.l_suppkey: [9920], l.l_partkey: [79919], l.l_orderkey: [5543]
+l.l_suppkey: [3196], l.l_partkey: [128171], l.l_orderkey: [5543]
+l.l_suppkey: [7219], l.l_partkey: [54713], l.l_orderkey: [5569]
+l.l_suppkey: [6554], l.l_partkey: [21549], l.l_orderkey: [5572]
+l.l_suppkey: [1843], l.l_partkey: [134303], l.l_orderkey: [5572]
+l.l_suppkey: [7744], l.l_partkey: [25241], l.l_orderkey: [5572]
+l.l_suppkey: [9346], l.l_partkey: [31836], l.l_orderkey: [5603]
+l.l_suppkey: [4046], l.l_partkey: [131532], l.l_orderkey: [5607]
+l.l_suppkey: [7083], l.l_partkey: [82066], l.l_orderkey: [5635]
+l.l_suppkey: [8712], l.l_partkey: [136198], l.l_orderkey: [5635]
+l.l_suppkey: [5787], l.l_partkey: [108256], l.l_orderkey: [5636]
+l.l_suppkey: [7425], l.l_partkey: [4924], l.l_orderkey: [5665]
+l.l_suppkey: [3898], l.l_partkey: [141383], l.l_orderkey: [5670]
+l.l_suppkey: [149], l.l_partkey: [187630], l.l_orderkey: [5698]
+l.l_suppkey: [9430], l.l_partkey: [54419], l.l_orderkey: [5699]
+l.l_suppkey: [8180], l.l_partkey: [130640], l.l_orderkey: [5702]
+l.l_suppkey: [2389], l.l_partkey: [142388], l.l_orderkey: [5729]
+l.l_suppkey: [1182], l.l_partkey: [11181], l.l_orderkey: [5729]
+l.l_suppkey: [9755], l.l_partkey: [59754], l.l_orderkey: [5735]
+l.l_suppkey: [3187], l.l_partkey: [165638], l.l_orderkey: [5760]
+l.l_suppkey: [9279], l.l_partkey: [151733], l.l_orderkey: [5765]
+l.l_suppkey: [9569], l.l_partkey: [187050], l.l_orderkey: [5766]
+l.l_suppkey: [1062], l.l_partkey: [68555], l.l_orderkey: [5767]
+l.l_suppkey: [6828], l.l_partkey: [6827], l.l_orderkey: [5794]
+l.l_suppkey: [2334], l.l_partkey: [157303], l.l_orderkey: [5828]
+l.l_suppkey: [1039], l.l_partkey: [163490], l.l_orderkey: [5858]
+l.l_suppkey: [4906], l.l_partkey: [84905], l.l_orderkey: [5891]
+l.l_suppkey: [8099], l.l_partkey: [185580], l.l_orderkey: [5891]
+l.l_suppkey: [4799], l.l_partkey: [74798], l.l_orderkey: [5892]
+l.l_suppkey: [4422], l.l_partkey: [114421], l.l_orderkey: [5921]
+l.l_suppkey: [4233], l.l_partkey: [89216], l.l_orderkey: [5926]
+l.l_suppkey: [6722], l.l_partkey: [126721], l.l_orderkey: [5926]
+l.l_suppkey: [8104], l.l_partkey: [128103], l.l_orderkey: [5953]
+l.l_suppkey: [2215], l.l_partkey: [144672], l.l_orderkey: [5954]
+l.l_suppkey: [6219], l.l_partkey: [111196], l.l_orderkey: [5955]
+l.l_suppkey: [6526], l.l_partkey: [131499], l.l_orderkey: [5957]
+l.l_suppkey: [80], l.l_partkey: [5079], l.l_orderkey: [5957]
+l.l_suppkey: [6298], l.l_partkey: [146297], l.l_orderkey: [5959]
+l.l_suppkey: [4380], l.l_partkey: [4379], l.l_orderkey: [5959]
+l.l_suppkey: [4659], l.l_partkey: [42154], l.l_orderkey: [5959]
+l.l_suppkey: [6973], l.l_partkey: [69454], l.l_orderkey: [5984]
+l.l_suppkey: [6311], l.l_partkey: [78789], l.l_orderkey: [5986]
+l.l_suppkey: [106], l.l_partkey: [80105], l.l_orderkey: [5990]
